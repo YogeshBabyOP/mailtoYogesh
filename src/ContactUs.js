@@ -15,7 +15,7 @@ function ContactUs () {
         if (document.getElementById('side').value.trim() === "") window.alert("don't you know your name ?😒")
         else if (document.getElementById('mailidd').value.trim() === "") window.alert("Some Mail Id's are needed man 💌")
         else if (document.getElementById('messageid').value.trim() === "") window.alert("Kuch type karo ben stokes 😁")
-        else window.alert("Mail was Sent to Yogesh Successfully !💚")
+        else window.alert("Mail was Sent to Yogesh Successfully ! Happy BirthDay Snigdha💚✨")
 
         console.log(result.text);
 
